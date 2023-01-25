@@ -1,7 +1,5 @@
 # Vocabulary Tools
 
-## Vocabulary knowledge
-
 ## Vocabulary Lists
 
 ### BNC/COCA word list
@@ -12,15 +10,23 @@
 
 ### AntWordProfiler
 
+## Vocabulary knowledge
+
 ### Vocabulary Levels Test (VLT)
 
 ### Vocabulary Size Test (VST)
 
-### The Peabody Picture Vocabulary Test (PPVT; Dunn & Dunn, 2007)
+### The Peabody Picture Vocabulary Test
 
-### P-Lex (Meara, 2007)
+(PPVT; Dunn & Dunn, 2007)
 
-### X_Lex (Meara and Milton, 2003)
+### P-Lex
+
+(Meara, 2007)
+
+### X_Lex
+
+(Meara and Milton, 2003)
 
 ### V_Capture
 
@@ -30,19 +36,33 @@
 
 ### Lexical Profile
 
-### RANGE (Nation & Heatley, 2002)
+## Corpus
 
-### The Lexical Frequency Profile (Laufer & Nation, 1995)
+### RANGE
 
-### TOTALrecall (Liou et al., 2013)
+(Nation & Heatley, 2002)
 
-### WebCollocate (Chen, 2011)
+### The Lexical Frequency Profile
 
-### WebVocabprofile at www.lextutor.ca
+(Laufer & Nation, 1995)
+
+### TOTALrecall
+
+(Liou et al., 2013)
+
+### WebCollocate
+
+(Chen, 2011)
+
+### WebVocabprofile
+
+at www.lextutor.ca
 
 ### Meaning recall task
 
-### Complete Lexical Tutor (Cobb, n.d.)
+### Complete Lexical Tutor
+
+(Cobb, n.d.)
 
 ### Vocabulary-Recognition Test
 

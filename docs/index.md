@@ -1,5 +1,7 @@
 # Introduction
 
+![Alt Text](Hotpot-2.png)
+
 Data collection in Second Language Research: A Catalogue of Scales, Instruments, Tools, and Tasks
 
 “The idea is to make a collection of instruments, tools, and tasks used in L2 research. Using the book, SLA researchers can browse different instruments, and know when and how to use them. For each instrument or scale, the book will show a popularity index [score or icon showing how popular the tool is. It is the number of the citations each instrument receives divided by the sum of the citations of all instruments in the same category]”
