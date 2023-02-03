@@ -23,5 +23,3 @@ Data collection in Second Language Research: A Catalogue of Scales, Instruments,
    e. TESOL Quarterly
 
 ## How to navigate the book
-
-## Another header
