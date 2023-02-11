@@ -1,12 +1,26 @@
 # Vocabulary
 
-## Vocabulary Lists
+## Word and Frequency Lists
 
-### BNC/COCA word list
+### The Academic Word List (AWL)
 
-### Contemporary Corpus of American English (COCA)
+The Academic Word List (AWL) was developed by Averil Coxhead. The list contains 570 word families which were selected because they appear with great frequency in a broad range of academic texts.
 
-### RANGE
+### The General Service List
+
+The General Service List (GSL) is a list of roughly 2,000 words published by Michael West in 1953. The words were selected to represent the most frequent words of English and were taken from a corpus of written English.
+
+### The New General Service List
+
+The New General Service List (NGSL) is published by Dr. Charles Browne, Dr. Brent Culligan and Joseph Phillips and it contains 2,818 words (lemmas) claimed to be the core vocabulary of the English language.
+
+### The New Academic Word List 1.0 (NAWL)
+
+The New Academic Word List (NAWL) was developed by Charles Browne, Brent Culligan and Joseph Phillips in 2013. The NAWL is based on a carefully selected academic corpus of 288 million words.
+
+### BNC Frequency list
+
+Leech, G., & Rayson, P. (2014). Word frequencies in written and spoken English: Based on the British National Corpus. Routledge.
 
 ### AntWordProfiler
 
@@ -111,3 +125,5 @@ The task assesses learners’ knowledge of connectives (Crosson & Lesaux, 2013).
 ## Word Associates Test
 
 Read, J. (1993). The development of a new measure of L2 vocabulary knowledge. Language testing, 10(3), 355-371.
+
+# References
