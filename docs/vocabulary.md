@@ -18,11 +18,20 @@ The New General Service List (NGSL) is published by Dr. Charles Browne, Dr. Bren
 
 The New Academic Word List (NAWL) was developed by Charles Browne, Brent Culligan and Joseph Phillips in 2013. The NAWL is based on a carefully selected academic corpus of 288 million words.
 
-### BNC Frequency list
+### BNC Frequency List
 
 Leech, G., & Rayson, P. (2014). Word frequencies in written and spoken English: Based on the British National Corpus. Routledge.
 
-### AntWordProfiler
+### PHRASE List
+
+The PHRASal Expressions List (PHRASE List) was developed by Martinez and Schmitt. The list conatins the 505 most frequent non-transparent multiword expressions in English, intended especially for receptive use.
+
+Martinez, R., & Schmitt, N. (2012). A phrasal expressions list. Applied linguistics, 33(3), 299-320.
+
+### Knowledge-based Vocabulary Lists
+
+"The KVL lists were created by testing English language word knowledge of over 100,000 Chinese, German, and Spanish learners of English in order to determine which words were known best and which were less well known. The test required the learners to spell the words correctly, and so required a good level of mastery." There are currently three KVL for L2 learners: KVL-Chinese, KVL-German, or KVL-Spanish. The lists are available for download at
+https://www.britishcouncil.org/exam/aptis/research/knowledge-based-vocabulary-lists-kvl
 
 ## Vocabulary knowledge Tests
 
@@ -31,13 +40,15 @@ Leech, G., & Rayson, P. (2014). Word frequencies in written and spoken English: 
 Validation of this test: Laufer, B. & Nation, P. (1999), A vocabulary size test of controlled productive ability. Language Testing 16(1), 33-51.
 Rationale for Version C above: Cobb, T. (2000), One size fits all? Canadian Modern Language Review, 57(2), 295-324.
 
+### Updated Vocabulary Levels Test (UVLT)
+
+The UVLT consists of five levels measuring knowledge of vocabulary at the 1000, 2000, 3000, 4000, and 5000 levels. Items for the tests were sourced from Nation’s (2012) BNC/COCA word lists. The test has two forms ...
+
+Webb, S., Sasao, Y., & Ballance, O. (2017). The updated Vocabulary Levels Test: Developing and validating two new forms of the VLT. ITL-International Journal of Applied Linguistics, 168(1), 33-69.
+
 ### Vocabulary Size Test (VST)
 
 https://www.lextutor.ca/tests/nation_beglar_size_2007.pdf
-
-### Phrasal VST
-
-Martinez, R., & Schmitt, N. (2012). A phrasal expressions list. Applied linguistics, 33(3), 299-320.
 
 ### Computer Adaptive Test of Size & Strength (CATSS)
 
@@ -51,11 +62,9 @@ https://www.lextutor.ca/tests/anthony_nation_2017.pdf
 
 (PPVT; Dunn & Dunn, 2007)
 
-### Updated VLT
-
-Webb, S., Sasao, Y., & Ballance, O. (2017). The updated Vocabulary Levels Test: Developing and validating two new forms of the VLT. ITL-International Journal of Applied Linguistics, 168(1), 33-69.
-
 ### Word Part Levels Test (WPLT)
+
+"The Word Part Levels Test (WPLT) was developed to measure three aspects of affix knowledge: form (recognition of written affix forms), meaning (knowledge of affix meanings), and use (knowledge of the syntactic properties of affixes)"
 
 Sasao, Y., & Webb, S. (2017). The word part levels test. Language Teaching Research, 21(1), 12-30.
 
@@ -76,18 +85,6 @@ Sasao, Y., & Webb, S. (2018). The guessing from context test. ITL-International 
 ### V_Size
 
 ### DevLex
-
-### Lexical Profile
-
-## Corpus
-
-### RANGE
-
-(Nation & Heatley, 2002)
-
-### The Lexical Frequency Profile
-
-(Laufer & Nation, 1995)
 
 ### TOTALrecall
 
@@ -122,8 +119,20 @@ The comparative judgment approach (Jones et al., 2019)
 
 The task assesses learners’ knowledge of connectives (Crosson & Lesaux, 2013). In this untimed cloze task, learners are asked to read a short passage that are missing connectives and choose the connective that appropriately link two sentences or clauses. For example,
 
-## Word Associates Test
+### Word Associates Test
 
 Read, J. (1993). The development of a new measure of L2 vocabulary knowledge. Language testing, 10(3), 355-371.
 
-# References
+## Tools and Software
+
+### AntWordProfiler
+
+### RANGE
+
+(Nation & Heatley, 2002)
+
+### The Lexical Frequency Profile
+
+(Laufer & Nation, 1995)
+
+## References
