@@ -1,4 +1,4 @@
-# Cogntive and Psychological test
+# Cogntive and Psychological tests
 
 ## NASA Task Load Index (TLX)
 
