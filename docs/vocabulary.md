@@ -1,6 +1,6 @@
 # Vocabulary
 
-## Word and Frequency Lists
+## **Word and Frequency Lists**
 
 ### The Academic Word List (AWL)
 
@@ -33,7 +33,7 @@ Martinez, R., & Schmitt, N. (2012). A phrasal expressions list. Applied linguist
 "The KVL lists were created by testing English language word knowledge of over 100,000 Chinese, German, and Spanish learners of English in order to determine which words were known best and which were less well known. The test required the learners to spell the words correctly, and so required a good level of mastery." There are currently three KVL for L2 learners: KVL-Chinese, KVL-German, or KVL-Spanish. The lists are available for download at
 https://www.britishcouncil.org/exam/aptis/research/knowledge-based-vocabulary-lists-kvl
 
-## Vocabulary knowledge Tests
+## **Vocabulary knowledge Tests**
 
 ### Vocabulary Levels Test (VLT)
 
@@ -123,7 +123,7 @@ The task assesses learners’ knowledge of connectives (Crosson & Lesaux, 2013).
 
 Read, J. (1993). The development of a new measure of L2 vocabulary knowledge. Language testing, 10(3), 355-371.
 
-## Tools and Software
+## **Tools and Software**
 
 ### AntWordProfiler
 
@@ -135,4 +135,4 @@ Read, J. (1993). The development of a new measure of L2 vocabulary knowledge. La
 
 (Laufer & Nation, 1995)
 
-## References
+## **References**

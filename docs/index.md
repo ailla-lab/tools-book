@@ -1,6 +1,6 @@
 # Introduction
 
-![Alt Text](Hotpot-2.png)
+<!-- ![Alt Text](Hotpot-2.png) -->
 
 Data collection in Second Language Research: A Catalogue of Scales, Instruments, Tools, and Tasks
 
@@ -23,3 +23,5 @@ Data collection in Second Language Research: A Catalogue of Scales, Instruments,
    e. TESOL Quarterly
 
 ## How to navigate the book
+
+## Contributors
