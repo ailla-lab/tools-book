@@ -1,4 +1,7 @@
-site_name: The Second Language Catagolgue
+site_name: The Second Language Toolkit
+markdown_extensions:
+  - attr_list
+  - md_in_html
 
 theme:
   name: material
