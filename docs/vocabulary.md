@@ -60,6 +60,9 @@ The UVLT consists of five levels measuring knowledge of vocabulary at the 1000, 
 
 ### Computer Adaptive Test of Size & Strength (CATSS)
 
+CATSS aims to assess vocabulary size, i.e. knowledge of word meaning. However, in an attempt to overcome the basic limitation of size tests by testing each word in more detail, four degrees of strength of knowledge are assessed. Each word is tested in four modalities
+(i.e. productive recall, receptive recall, productive recognition, receptive recognition), as demonstrated using the word ‘melt’ below.
+
 Aviad-Levitzky, T., Laufer, B., & Goldstein, Z. (2019). The new computer adaptive test of size and strength (CATSS): Development and validation. Language Assessment Quarterly, 16(3), 345-368
 
 ### Picture VST (PVST)
@@ -79,6 +82,8 @@ The Peabody Picture Vocabulary Test (PPVT) is a standardized test that measures 
 Sasao, Y., & Webb, S. (2017). The word part levels test. Language Teaching Research, 21(1), 12-30.
 
 ### Guessing from Context Test (GCT)
+
+The Guessing from Context Test is a language assessment tool that measures a person's ability to understand the meaning of words or phrases based on the context in which they are used. In this test, a person is presented with a sentence or a paragraph that contains a word or phrase that they may not be familiar with. The person is then asked to guess the meaning of the word or phrase based on the context of the sentence or paragraph. This type of test is often used to assess a person's reading comprehension skills and their ability to use context clues to understand unfamiliar words or phrases. The Guessing from Context Test is a useful tool for educators and language professionals to evaluate a person's language proficiency and to identify areas where they may need additional support or instruction.
 
 Sasao, Y., & Webb, S. (2018). The guessing from context test. ITL-International Journal of Applied Linguistics, 169(1), 115-141.
 
