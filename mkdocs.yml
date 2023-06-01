@@ -1,4 +1,4 @@
-site_name: The Second Language Toolkit
+site_name: The Second Language Research Toolkit
 markdown_extensions:
   - attr_list
   - md_in_html

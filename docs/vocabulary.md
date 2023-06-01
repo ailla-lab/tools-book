@@ -26,6 +26,11 @@ The New Academic Word List (NAWL) was developed by Charles Browne, Brent Culliga
 
 ### BNC Frequency List
 
+The BNC Frequency List is a compilation of the most frequently used words in the British National Corpus (BNC), a large collection of written and spoken texts in British English. The list is designed to aid learners of English as a foreign language and includes vocabulary for foreign travel, study in English, and the internet. Several versions of the frequency list are available, including a lemmatized version and a raw version, and they can be found on various websites such as Kilgarriff's webpage. The list has been used to design graded readers and course books.
+
+https://kilgarriff.co.uk/bnc-readme.html
+https://www.eapfoundation.com/vocab/general/bnccoca/index.php?type=v2
+
 Leech, G., & Rayson, P. (2014). Word frequencies in written and spoken English: Based on the British National Corpus. Routledge.
 
 ### PHRASE List
@@ -56,6 +61,12 @@ The UVLT consists of five levels measuring knowledge of vocabulary at the 1000, 
 
 ### Vocabulary Size Test (VST)
 
+The Vocabulary Size Test developed by Paul Nation and David Beglar is a widely used tool to estimate the size of an individual's vocabulary in English. The test consists of 140 multiple-choice items, each with four possible answers. The words included in the test range from the most common to the least common, based on frequency data from the British National Corpus.
+
+The test is designed to assess receptive vocabulary knowledge, which means that test takers are asked to select the correct meaning of a word from a list of options, rather than producing the word themselves. The test is timed, with a suggested time limit of 50 minutes to complete all 140 items.
+
+The Vocabulary Size Test developed by Nation and Beglar has been used in various research studies and has been shown to have high reliability and validity. It has also been used to estimate vocabulary size in different contexts, such as second language learners and academic settings.
+
     https://www.lextutor.ca/tests/nation_beglar_size_2007.pdf
 
 ### Computer Adaptive Test of Size & Strength (CATSS)
@@ -65,7 +76,9 @@ CATSS aims to assess vocabulary size, i.e. knowledge of word meaning. However, i
 
 Aviad-Levitzky, T., Laufer, B., & Goldstein, Z. (2019). The new computer adaptive test of size and strength (CATSS): Development and validation. Language Assessment Quarterly, 16(3), 345-368
 
-### Picture VST (PVST)
+### Picture Vocabulary Size Test (PVST)
+
+The Picture Vocabulary Size Test (PVST) is a test of receptive vocabulary size. The test measures whether the test-taker can find a suitable meaning (a picture) for a given partly contextualized word form. It is a recognition test primarily intended for young pre-literate native speakers up to eight years old and young non-native speakers of English. Two 96-item test sets are included with the test. These test sets use different questions but following the same design procedures. The PVST was designed by Paul Nation of Victoria University of Wellington, New Zealand and implemented as a software package by Laurence Anthony of Waseda University, Japan. Jannie van Hees of The University of Auckland, New Zealand played an important role in trialing the test
 
     https://www.lextutor.ca/tests/anthony_nation_2017.pdf
 
@@ -77,7 +90,11 @@ The Peabody Picture Vocabulary Test (PPVT) is a standardized test that measures 
 
 ### Word Part Levels Test (WPLT)
 
-"The Word Part Levels Test (WPLT) was developed to measure three aspects of affix knowledge: form (recognition of written affix forms), meaning (knowledge of affix meanings), and use (knowledge of the syntactic properties of affixes)"
+The Word Part Levels Test (WPLT) is a vocabulary test developed by Yosuke Sasao and Stuart Webb. It measures learners' knowledge of the meanings and uses of word parts, such as prefixes, suffixes, and roots, in English. WPLT measures three aspects of affix knowledge: form (recognition of written affix forms), meaning (knowledge of affix meanings), and use (knowledge of the syntactic properties of affixes)
+
+The WPLT consists of 60 multiple-choice items, each with four possible answers. The test items are designed to assess learners' ability to recognize and use word parts in context. The test is divided into three levels: Level 1 tests knowledge of common prefixes and suffixes, Level 2 tests knowledge of less common word parts and roots, and Level 3 tests knowledge of more complex word parts and their meanings.
+
+The WPLT has been shown to have high reliability and validity, and it has been used in various research studies to assess vocabulary knowledge and to guide vocabulary instruction. The test can be used with learners at different levels of proficiency and in different contexts, such as academic and professional settings.
 
 Sasao, Y., & Webb, S. (2017). The word part levels test. Language Teaching Research, 21(1), 12-30.
 
@@ -158,6 +175,10 @@ AntWordProfiler is a free software tool developed by Dr. Laurence Anthony for an
 
 ### RANGE
 
+The Range software is used for analysing the vocabulary load of texts. It can tell you how much and what vocabulary occurs in a particular text or group of texts.
+
+https://www.wgtn.ac.nz/lals/resources/paul-nations-resources/vocabulary-analysis-programs
+
 (Nation & Heatley, 2002)
 
 ### The Lexical Frequency Profile
@@ -169,5 +190,3 @@ The Lexical Frequency Profile (LFP) is a tool used to analyze the frequency of w
 ## The Depth of Vocabulary Knowledge Test (DVKT)
 
 The Depth of Vocabulary Knowledge Test (DVKT) is a standardized test used to measure a person's depth of vocabulary knowledge, or the extent to which they understand the nuances and subtleties of words beyond their basic definitions. The test is based on the idea that words can be known at different levels of depth, ranging from a basic understanding of their meaning to a more complex understanding of their connotations, associations, and usage in different contexts. The DVKT consists of 40 multiple-choice questions, each with a sentence containing a target word and four possible interpretations. The test-taker must choose the interpretation that best reflects the word's deeper meaning in the given context. The DVKT is often used in research to assess the quality of vocabulary knowledge and to investigate the relationship between vocabulary depth and reading comprehension. It is also used in language teaching and assessment to identify areas of strength and weakness in learners' vocabulary knowledge and to guide instruction in vocabulary development.
-
-## **References**
