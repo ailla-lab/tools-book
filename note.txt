@@ -1,0 +1,5 @@
+for customization read this
+
+https://squidfunk.github.io/mkdocs-material/customization/
+https://www.codeinsideout.com/blog/site-setup/create-site-project/
+
