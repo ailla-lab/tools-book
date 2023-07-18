@@ -165,6 +165,8 @@ The task assesses learners’ knowledge of connectives (Crosson & Lesaux, 2013).
 
 The Word Associates Test is a research method used to investigate the semantic associations between words. In this task, participants are presented with a list of words and asked to generate a list of words that are associated with each of the original words. The associations can be based on any semantic relationship, such as synonyms, antonyms, or related concepts. The Word Associates Test can be used to investigate a variety of research questions related to language and cognition, such as how people organize and retrieve information from memory, how different semantic relationships affect word processing, and how individual differences in semantic knowledge and memory affect language comprehension and production. The task can also be adapted to investigate other aspects of semantic processing, such as semantic priming, semantic similarity, and semantic categorization. Overall, the Word Associates Test is a useful tool for investigating the cognitive and neural mechanisms underlying semantic processing and language comprehension.
 
+The test is also used to measure second language learners' vocabulary depth with a focus on their network knowledge. To take the test, one can use online resources like the one provided by Lextutor.
+
 Read, J. (1993). The development of a new measure of L2 vocabulary knowledge. Language testing, 10(3), 355-371.
 
 ## **Tools and Software**
