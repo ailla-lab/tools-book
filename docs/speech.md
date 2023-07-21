@@ -24,7 +24,13 @@ This task is considered a reliable and quick assessment of holistic speaking abi
 
 ## Written Elicited Imitation
 
-    (García–Amaya & Cintrón–Valentín, 2021)
+Written Elicited Imitation (WEI) is a language learning technique that involves reading and reproducing written text in the target language. In a WEI task, the learner reads a passage of written text in the target language and then reproduces it, either orally or in writing, as closely as possible to the original text.
+
+The goal of a WEI task is to improve the learner's ability to comprehend and produce written language in the target language. WEI tasks can be used to improve various aspects of language learning, such as vocabulary, grammar, syntax, and sentence structure.
+
+WEI tasks can be done individually or in groups, and can be adapted to different levels and types of language learners. They can be done with different types of written text, such as articles, stories, or dialogues, and can be tailored to specific language learning goals or contexts.
+
+WEI tasks have been found to be effective in improving language learning outcomes, especially when combined with other language learning techniques, such as explicit instruction, feedback, and practice. They can be a valuable tool for language learners who want to improve their written language skills and to build their confidence in using the language.
 
 ## Picture drawing task
 
