@@ -19,3 +19,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+  icon:
+    logo: fontawesome/solid/book
+  favicon: favicon.png
+
+  features:
+    - header.autohide
+
+  font:
+    text: Roboto
+
+  extra_css:
+    - stylesheets/extra.css

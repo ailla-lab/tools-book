@@ -1,5 +1,3 @@
-## **Resources**
-
 ## AntConc
 
 ## Sketch Engine
