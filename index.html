@@ -81,7 +81,9 @@
     
       
 
-<header class="md-header" data-md-component="header">
+  
+
+<header class="md-header md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="." title="The Second Language Research Toolkit" class="md-header__button md-logo" aria-label="The Second Language Research Toolkit" data-md-component="logo">
       
@@ -145,10 +147,16 @@
       </label>
       <nav class="md-search__options" aria-label="Search">
         
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
         <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
         </button>
       </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
       
     </form>
     <div class="md-search__output">
@@ -167,13 +175,156 @@
     
   </nav>
   
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+    
+  
+
+
+  <li class="md-tabs__item">
+    <a href="." class="md-tabs__link md-tabs__link--active">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="congitveAndPsychologicalTest/" class="md-tabs__link">
+      Cogntive and Psychological tests
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="corpus/" class="md-tabs__link">
+      **Tools**
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="grammar/" class="md-tabs__link">
+      Grammar
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="listening/" class="md-tabs__link">
+      Listening
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="morphology/" class="md-tabs__link">
+      Morphology
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="phnology/" class="md-tabs__link">
+      Phonology
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="pragmatics/" class="md-tabs__link">
+      Pragmatics
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="reading/" class="md-tabs__link">
+      Reading
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="speech/" class="md-tabs__link">
+      Speech
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="vocabulary/" class="md-tabs__link">
+      Vocabulary
+    </a>
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
 </header>
     
     <div class="md-container" data-md-component="container">
       
       
-        
-          
         
       
       <main class="md-main" data-md-component="main">
@@ -186,8 +337,12 @@
                   <div class="md-sidebar__inner">
                     
 
+  
 
-<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="." title="The Second Language Research Toolkit" class="md-nav__button md-logo" aria-label="The Second Language Research Toolkit" data-md-component="logo">
       
@@ -242,20 +397,6 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#inclusion-criteria" class="md-nav__link">
-    Inclusion criteria
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#how-to-navigate-the-book" class="md-nav__link">
-    How to navigate the book
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#contributors" class="md-nav__link">
     Contributors
   </a>
@@ -294,7 +435,7 @@
   
     <li class="md-nav__item">
       <a href="corpus/" class="md-nav__link">
-        Corpus
+        **Tools**
       </a>
     </li>
   
@@ -427,53 +568,6 @@
               </div>
             
             
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#inclusion-criteria" class="md-nav__link">
-    Inclusion criteria
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#how-to-navigate-the-book" class="md-nav__link">
-    How to navigate the book
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#contributors" class="md-nav__link">
-    Contributors
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
           
           
             <div class="md-content" data-md-component="content">
@@ -488,6 +582,9 @@
 <!-- ![Alt Text](Hotpot-2.png) -->
 
 <h1 id="data-collection-in-second-language-research-a-catalogue-of-scales-instruments-tools-and-tasks"><strong>Data collection in Second Language Research: A Catalogue of Scales, Instruments, Tools, and Tasks </strong></h1>
+<p>Applied linguistics research requires the use of a variety of scales, instruments, and tools to collect and analyze data. However, finding reliable and valid scales and well-functioning tools can be a time-consuming and challenging task. This is where our The Second Language Research Toolkit (SLRT) comes in.</p>
+<p>SLRT is a comprehensive catalogue for researchers in applied linguistics who are looking for high-quality scales, instruments, and tools to support their research. We curate and provide access to a wide range of resources that have been proven useful for applied linguists working in a variety of different areas, from second language acquisition to language assessment and beyond.</p>
+<p>The website is designed to be user-friendly and easy to navigate, with a wide range of resources available to help researchers find what they need quickly and easily. It also offers is an extensive search functionality that allows users to filter resources based on a wide range of criteria, including language skills and research focus. This makes it easy for researchers to find the resources they need quickly and easily, without having to spend hours searching through irrelevant results.</p>
 <!-- “The idea is to make a collection of instruments, tools, and tasks used in L2 research. Using the book, SLA researchers can browse different instruments, and know when and how to use them. For each instrument or scale, the book will show a popularity index [score or icon showing how popular the tool is. It is the number of the citations each instrument receives divided by the sum of the citations of all instruments in the same category]”
 
 The objectives of using tools and instruments in research for data collection are:
@@ -504,7 +601,8 @@ To increase the generalizability of research findings: By using standardized too
 
 Overall, the use of tools and instruments in research for data collection is essential for ensuring the accuracy, reliability, and validity of research findings, and for facilitating comparisons across studies and increasing the generalizability of research results. -->
 
-<h2 id="inclusion-criteria"><strong>Inclusion criteria</strong></h2>
+<!-- ## **Inclusion criteria** -->
+
 <!-- 1. the test/tool should focus on L2
 2. it should be cited and used in several studies (20 citations)
 3. focus on the macro skills (vocabulary, reading, grammar, listening, and speaking, pronunciation) and micro-skills ()
@@ -519,9 +617,10 @@ Overall, the use of tools and instruments in research for data collection is ess
    d. the modern language
    e. TESOL Quarterly -->
 
-<h2 id="how-to-navigate-the-book"><strong>How to navigate the book</strong></h2>
+<!-- ## **How to navigate the book** -->
+
 <h2 id="contributors"><strong>Contributors</strong></h2>
-<p>This living book would not be possible without the invaluable contributions from the following members of my AILLA lab: <strong>Alaa Saleh, Mahmoud Aljadani, Dalal, Norah, and Ghadi</strong>. I am truly grateful for the time and effort you have invested in this project. Your dedication, hard work, and expertise have been instrumental in making this project a success.</p>
+<p>This living catalogue would not be possible without the invaluable contributions from the following members of my AILLA lab: <strong>Alaa Saleh, Mahmoud Aljadani, Dalal, Norah, and Ghadi Matouq</strong>. I am truly grateful for the time and effort you have invested in this project. Your dedication, hard work, and expertise have been instrumental in making this project a success.</p>
 
 
 
@@ -533,6 +632,11 @@ Overall, the use of tools and instruments in research for data collection is ess
           
           
         </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </a>
         
       </main>
       
@@ -559,7 +663,7 @@ Overall, the use of tools and instruments in research for data collection is ess
       <div class="md-dialog__inner md-typeset"></div>
     </div>
     
-    <script id="__config" type="application/json">{"base": ".", "features": ["header.autohide"], "search": "assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": ".", "features": ["header.autohide", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.expand", "navigation.indexes", "navigation.top", "toc.integrate", "header.autohide", "search.suggest", "search.highlight", "search.share"], "search": "assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
       <script src="assets/javascripts/bundle.ba449ae6.min.js"></script>
