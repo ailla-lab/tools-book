@@ -1,8 +1,6 @@
-# Tools
+# Corpus
 
-## AntConc
-
-## Sketch Engine
+## **Software and Tools**
 
 ## Coh-Metrix
 
@@ -47,6 +45,10 @@ The Stanford Log-linear Part-Of-Speech (POS) Tagger is a natural language proces
 The Stanford POS Tagger uses a log-linear model that combines several different features of the text to predict the correct POS tag for each word. These features include the word itself, the context in which it appears, and the surrounding words. The model is trained on a large corpus of text, and the accuracy of the tagger is continually improved through iterative training.
 
 The Stanford POS Tagger is widely used in natural language processing applications, such as text analysis, machine translation, and information retrieval. The tagger is available as a software package that can be downloaded and used for free, and it can be integrated into other applications through an API.
+
+## AntConc
+
+## Sketch Engine
 
 ## KfNgram
 

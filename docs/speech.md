@@ -1,18 +1,18 @@
-# Speech
-
-# Shadowing task
+## Shadowing task
 
 Shadowing is a language learning technique that involves listening to a native speaker or a recorded voice and repeating what is said as quickly and accurately as possible. The goal of shadowing is to improve pronunciation, fluency, and overall speaking ability in a foreign language. The technique involves closely following the speaker's intonation, rhythm, and stress patterns, and attempting to replicate them as closely as possible. Shadowing can be done with a variety of materials, including audio recordings, videos, and live speakers. The technique is often used in language classrooms and language learning programs, and can be done individually or in groups. Shadowing is a highly effective technique for improving speaking skills, as it helps learners to develop their listening comprehension, pronunciation, and overall fluency in a foreign language.
 
 The task is used to measure speech segmentation. In this task, participants listen to short excerpts of speech and repeat as many words as they could.
-(Mitterer & McQueen 2009)
+
+<!-- (Mitterer & McQueen 2009) -->
 
 ## Animacy Judgment
 
 Animacy judgment is a task used in psycholinguistics and cognitive science to investigate how people process and categorize objects based on their perceived animacy. The task involves presenting participants with a series of objects or images and asking them to rate the perceived animacy of each object or image on a scale. The scale typically ranges from inanimate to animate, with intermediate categories such as partially animate or quasi-animate. The task is designed to test the hypothesis that people process animate objects differently from inanimate objects, and that this processing may be influenced by factors such as movement, intentionality, and agency. Animacy judgment tasks have been used in a variety of studies, including studies of language acquisition, semantic processing, and social cognition. The task is often used in conjunction with other measures, such as reaction time or brain imaging, to investigate the neural mechanisms underlying animacy perception and processing.
 
 The task is used to assess the speed of lexical access. Participants are presented with some word stimuli and are prompted to decide, as fast as possible, whether words identified either a living (e.g., dog) or nonliving (e.g., chair) item by pressing either the right or left shift key on the computer keyboard.
-(Segalowitz & Frenkiel-Fishman, 2005).
+
+> (Segalowitz & Frenkiel-Fishman, 2005).
 
 ## Sentence Verification Task
 
