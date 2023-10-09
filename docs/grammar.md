@@ -17,3 +17,35 @@ The Timed and Untimed Grammaticality Judgment Test has been used in various rese
 ## Grammar recognition test
 
 ## Grammar translation test
+
+## Auditory Grammaticality Judgment Task
+
+Auditory Grammaticality Judgment Task is a type of psycholinguistic experiment that is designed to investigate how people process language at the level of syntax. In this task, participants are presented with a series of spoken sentences and are asked to judge whether each sentence is grammatically correct or not.
+
+The sentences used in the task are carefully constructed to manipulate specific aspects of syntax, such as word order, verb agreement, and sentence structure. By analyzing participants' responses, researchers can gain insights into how people parse and interpret language at the level of syntax.
+
+The task has been used in a variety of studies, including those investigating the effects of language proficiency, working memory, and sentence complexity on syntactic processing.
+
+## Metalinguistic Knowledge Test (MKT)
+
+The Metalinguistic Knowledge Test (MKT) is a type of language assessment tool that is used to measure language learners' metalinguistic awareness. Metalinguistic awareness refers to the ability to reflect on and analyze language as a system, including its grammar, syntax, and vocabulary.
+
+The MKT typically consists of a series of questions or tasks that require language learners to demonstrate their understanding of various aspects of language, such as word meanings, sentence structure, and grammatical rules. For example, learners may be asked to identify the subject and object of a sentence, or to explain the difference between two similar words.
+
+The MKT is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between metalinguistic awareness and language proficiency. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
+
+## Oral Elicited Imitation Test (OEIT)
+
+The Oral Elicited Imitation Test (OEIT) is a type of language assessment tool that is used to measure language learners' ability to understand and reproduce spoken language. In this test, learners are presented with a series of spoken sentences and are asked to repeat them back as accurately as possible.
+
+The sentences used in the OEIT are carefully constructed to target specific aspects of language, such as grammar, syntax, and vocabulary. The test is typically administered orally, and learners are given a score based on the accuracy of their reproductions.
+
+The OEIT is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between oral proficiency and other language skills. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
+
+## Word-Order Correction Task
+
+The Word-Order Correction Task is a type of language assessment tool that is used to measure language learners' ability to understand and produce sentences with correct word order. In this task, learners are presented with a series of sentences that have incorrect word order and are asked to rearrange the words to form a grammatically correct sentence.
+
+The sentences used in the Word-Order Correction Task are carefully constructed to target specific aspects of word order, such as subject-verb agreement, word placement, and sentence structure. The test is typically administered in written form, and learners are given a score based on the accuracy of their corrections.
+
+The Word-Order Correction Task is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between word order and other language skills. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
