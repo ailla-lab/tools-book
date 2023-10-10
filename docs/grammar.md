@@ -14,9 +14,21 @@ The Timed and Untimed Grammaticality Judgment Test has been used in various rese
 
 (Ellis, 2005)
 
-## Grammar recognition test
+## Grammar Recognition Test
 
-## Grammar translation test
+The Grammar Recognition Test is a type of language assessment tool that is used to measure language learners' ability to recognize and identify grammatical structures in a language. In this test, learners are presented with a series of sentences that contain grammatical errors, and they are asked to identify the errors and correct them.
+
+The sentences used in the Grammar Recognition Test are carefully constructed to target specific aspects of grammar, such as verb tense, subject-verb agreement, and word order. The test is typically administered in written form, and learners are given a score based on the accuracy of their responses.
+
+The Grammar Recognition Test is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between grammar knowledge and other language skills. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
+
+## Grammar Translation Test
+
+The Grammar Translation Test is a type of language assessment tool that is used to measure language learners' ability to translate sentences from one language to another using a grammar-based approach. In this test, learners are presented with a series of sentences in the target language and are asked to translate them into their native language using a grammar-based approach.
+
+The sentences used in the Grammar Translation Test are carefully constructed to target specific aspects of grammar, such as verb tense, subject-verb agreement, and word order. The test is typically administered in written form, and learners are given a score based on the accuracy of their translations.
+
+The Grammar Translation Test is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between grammar knowledge and translation ability. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
 
 ## Auditory Grammaticality Judgment Task
 
@@ -49,3 +61,11 @@ The Word-Order Correction Task is a type of language assessment tool that is use
 The sentences used in the Word-Order Correction Task are carefully constructed to target specific aspects of word order, such as subject-verb agreement, word placement, and sentence structure. The test is typically administered in written form, and learners are given a score based on the accuracy of their corrections.
 
 The Word-Order Correction Task is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between word order and other language skills. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
+
+## Oral Cloze Test
+
+The Oral Cloze Test is a type of language assessment tool that is used to measure language learners' ability to fill in missing words in spoken sentences. In this test, learners are presented with a series of spoken sentences that contain gaps, and they are asked to fill in the missing words.
+
+The sentences used in the Oral Cloze Test are carefully constructed to target specific aspects of language, such as vocabulary, grammar, and syntax. The test is typically administered orally, and learners are given a score based on the accuracy of their responses.
+
+The Oral Cloze Test is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between language proficiency and cloze test performance. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
