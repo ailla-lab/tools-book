@@ -12,7 +12,7 @@ The AMTB is designed to be used with learners of any language and at any level o
 
 The AMTB has been widely used and has been translated into many different languages. It is considered a reliable and valid tool for measuring language learners' attitudes and motivation
 
-## The Language Self-Efficacy Scale (LSES
+## The Language Self-Efficacy Scale (LSES)
 
 The Language Self-Efficacy Scale (LSES) is a tool developed by Dr. Qian Wang in 2004 to measure language learners' self-efficacy beliefs in their ability to learn and use a second language. Self-efficacy refers to an individual's belief in their own ability to successfully perform a task. In the context of language learning, self-efficacy beliefs can influence learners' motivation, persistence, and performance.
 
