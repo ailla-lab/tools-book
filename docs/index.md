@@ -2,7 +2,7 @@
 
 <!-- ![Alt Text](Hotpot-2.png) -->
 
-# **Data collection in Second Language Research: A Catalogue of Scales, Instruments, Tools, and Tasks **
+# <strong> Data collection in Second Language Research: A Catalogue of Scales, Instruments, Tools, and Tasks </strong>
 
 Applied linguistics research requires the use of a variety of scales, instruments, and tools to collect and analyze data. However, finding reliable and valid scales and well-functioning tools can be a time-consuming and challenging task. This is where our The Second Language Research Toolkit (SLRT) comes in.
 
