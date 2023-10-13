@@ -13,9 +13,7 @@ The Timed and Untimed Grammaticality Judgment Test has been used in various rese
 ## <strong> Grammar Recognition Test </strong>
 
 The Grammar Recognition Test is a type of language assessment tool that is used to measure language learners' ability to recognize and identify grammatical structures in a language. In this test, learners are presented with a series of sentences that contain grammatical errors, and they are asked to identify the errors and correct them.
-
 The sentences used in the Grammar Recognition Test are carefully constructed to target specific aspects of grammar, such as verb tense, subject-verb agreement, and word order. The test is typically administered in written form, and learners are given a score based on the accuracy of their responses.
-
 The Grammar Recognition Test is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between grammar knowledge and other language skills. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
 
 ## <strong> Grammar Translation Test </strong>
