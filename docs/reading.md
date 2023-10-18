@@ -80,3 +80,8 @@ The Stokmans's Reading Attitude Scale is often used in second language acquisiti
 The Cognitive Diagnostic Second Language Reading Comprehension Test (CD-SLRCT) is a type of language assessment tool that is used to measure language learners' ability to comprehend written texts in a second language. This test is based on cognitive diagnostic models (CDMs) that aim to provide diagnostic information about students' strengths and weaknesses on a set of finer-grained attributes.
 The CD-SLRCT is designed to identify the specific cognitive processes involved in second language reading comprehension, such as vocabulary knowledge, syntactic processing, and discourse-level comprehension. The test consists of a series of reading passages and comprehension questions that are carefully constructed to target specific cognitive processes.
 The CD-SLRCT is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between cognitive processes and reading comprehension ability. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
+
+<br>
+<br>
+<br>
+<br>

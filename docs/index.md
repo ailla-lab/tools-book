@@ -47,3 +47,8 @@ Overall, the use of tools and instruments in research for data collection is ess
 ## **Contributors**
 
 This living catalogue would not be possible without the invaluable contributions from the following members of my AILLA lab: **Alaa Saleh, Mahmoud Aljadani, Dalal, Norah, and Ghadi Matouq**. I am truly grateful for the time and effort you have invested in this project. Your dedication, hard work, and expertise have been instrumental in making this project a success.
+
+<br>
+<br>
+<br>
+<br>

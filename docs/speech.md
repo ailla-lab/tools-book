@@ -43,3 +43,8 @@ The picture drawing task can be used in both laboratory and field settings, and 
 Overall, the picture drawing task is a flexible and versatile research method that can be used to investigate a wide range of topics related to visual perception, memory, and creativity.
 
 Participants are asked to draw a picture to illustrate their understanding of reading texts, videos, or other stimuli. The task can help induce top-down meaning-oriented input processing and trigger participants’ meaning-based input processing (Hsieh & Tsai, 2017). It was used in SLA in this study (Lee et al., 2021)
+
+<br>
+<br>
+<br>
+<br>

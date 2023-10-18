@@ -51,3 +51,8 @@ The Word-Order Correction Task is often used in second language acquisition rese
 The Oral Cloze Test is a type of language assessment tool that is used to measure language learners' ability to fill in missing words in spoken sentences. In this test, learners are presented with a series of spoken sentences that contain gaps, and they are asked to fill in the missing words.
 The sentences used in the Oral Cloze Test are carefully constructed to target specific aspects of language, such as vocabulary, grammar, and syntax. The test is typically administered orally, and learners are given a score based on the accuracy of their responses.
 The Oral Cloze Test is often used in second language acquisition research to assess the effectiveness of different types of language instruction and to investigate the relationship between language proficiency and cloze test performance. It can also be used in language classrooms to help teachers identify areas where learners may need additional instruction or support.
+
+<br>
+<br>
+<br>
+<br>
